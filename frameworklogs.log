@@ -1,72 +1,16 @@
-INFO -SearchFlight - 2023-05-19 11:52:23,203 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 11:52:27,563 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 11:52:28,339 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 11:52:29,434 - The date is selected
-WARNING -NonStop - 2023-05-19 11:53:13,130 - Pop up is closed
-WARNING -NonStop - 2023-05-19 11:53:13,892 - Flights are filtered
-INFO -Testfly - 2023-05-19 11:53:20,024 - 3
-INFO -SearchFlight - 2023-05-19 11:54:04,138 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 11:54:08,174 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 11:54:08,837 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 11:54:09,845 - The date is selected
-WARNING -NonStop - 2023-05-19 11:54:48,178 - Pop up is closed
-WARNING -NonStop - 2023-05-19 11:54:49,143 - Flights are filtered
-INFO -Testfly - 2023-05-19 11:54:56,202 - 21
-INFO -SearchFlight - 2023-05-19 11:57:58,753 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 11:58:02,958 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 11:58:03,726 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 11:58:04,999 - The date is selected
-WARNING -NonStop - 2023-05-19 11:58:35,189 - Pop up is closed
-WARNING -NonStop - 2023-05-19 11:58:35,901 - Flights are filtered
-INFO -Testfly - 2023-05-19 11:58:41,999 - 3
-INFO -SearchFlight - 2023-05-19 11:59:29,612 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 11:59:34,352 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 12:03:05,587 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 12:03:09,924 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 12:03:10,520 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 12:03:11,612 - The date is selected
-WARNING -NonStop - 2023-05-19 12:03:33,066 - Pop up is closed
-WARNING -NonStop - 2023-05-19 12:03:34,139 - Flights are filtered
-INFO -Testfly - 2023-05-19 12:03:40,224 - 3
-INFO -SearchFlight - 2023-05-19 12:04:24,340 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 12:04:28,709 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 12:09:35,973 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 12:09:40,012 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 12:09:40,968 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 12:09:42,117 - The date is selected
-WARNING -NonStop - 2023-05-19 12:10:27,213 - Pop up is closed
-WARNING -NonStop - 2023-05-19 12:10:27,939 - Flights are filtered
-INFO -Testfly - 2023-05-19 12:10:34,077 - 3
-INFO -SearchFlight - 2023-05-19 12:11:21,658 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 12:11:26,157 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 13:58:54,515 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 13:58:58,596 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 13:59:00,180 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 13:59:01,186 - The date is selected
-INFO -SearchFlight - 2023-05-19 14:02:42,896 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 14:02:47,197 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 14:02:48,259 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 14:02:49,495 - The date is selected
-WARNING -NonStop - 2023-05-19 14:03:26,302 - Pop up is closed
-WARNING -NonStop - 2023-05-19 14:03:27,074 - Flights are filtered
-INFO -Testfly - 2023-05-19 14:03:33,205 - 3
-INFO -SearchFlight - 2023-05-19 14:04:17,906 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 14:04:24,642 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 14:07:27,698 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 14:07:31,710 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 14:07:32,398 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 14:07:33,450 - The date is selected
-WARNING -NonStop - 2023-05-19 14:07:52,866 - Pop up is closed
-WARNING -NonStop - 2023-05-19 14:07:53,579 - Flights are filtered
-INFO -Testfly - 2023-05-19 14:07:59,669 - 3
-INFO -SearchFlight - 2023-05-19 14:08:36,439 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 14:08:40,805 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 14:10:58,751 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 14:11:02,901 - The destination city is selected
-INFO -SearchFlight - 2023-05-19 14:11:03,449 - The date section is clicked
-INFO -SearchFlight - 2023-05-19 14:11:04,320 - The date is selected
-WARNING -NonStop - 2023-05-19 14:11:37,833 - Pop up is closed
-WARNING -NonStop - 2023-05-19 14:11:38,532 - Flights are filtered
-INFO -Testfly - 2023-05-19 14:11:44,623 - 3
-INFO -SearchFlight - 2023-05-19 14:12:21,201 - The depart city is selected
-INFO -SearchFlight - 2023-05-19 14:12:25,596 - The date section is clicked
+INFO -SearchFlight - 2023-06-04 20:27:30,618 - The depart city is selected
+INFO -SearchFlight - 2023-06-04 20:27:35,039 - The date section is clicked
+INFO -SearchFlight - 2023-06-04 20:51:13,984 - The depart city is selected
+INFO -SearchFlight - 2023-06-04 20:51:18,642 - The destination city is selected
+INFO -SearchFlight - 2023-06-04 20:51:19,368 - The date section is clicked
+INFO -SearchFlight - 2023-06-04 20:51:21,048 - The date is selected
+WARNING -NonStop - 2023-06-04 20:51:55,744 - Pop up is closed
+WARNING -NonStop - 2023-06-04 20:51:56,814 - Flights are filtered
+INFO -Testfly - 2023-06-04 20:52:02,939 - 3
+INFO -SearchFlight - 2023-06-04 20:52:51,676 - The depart city is selected
+INFO -SearchFlight - 2023-06-04 20:52:55,607 - The destination city is selected
+INFO -SearchFlight - 2023-06-04 20:52:56,276 - The date section is clicked
+INFO -SearchFlight - 2023-06-04 20:52:57,136 - The date is selected
+WARNING -NonStop - 2023-06-04 20:53:20,065 - Pop up is closed
+WARNING -NonStop - 2023-06-04 20:53:20,995 - Flights are filtered
+INFO -Testfly - 2023-06-04 20:53:27,754 - 20

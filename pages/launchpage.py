@@ -17,7 +17,7 @@ class SearchFlight(Bdrive):
     TO = "//span[normalize-space()='To']"
     DEP = "//span[normalize-space()='Departure']"
     NM = "//span[@aria-label='Next Month']"
-    DAT = "//div[@aria-label='Wed Jun 07 2023']//p[contains(text(),'7')]"
+    DAT = "//div[@aria-label='Wed Jul 05 2023']//p[contains(text(),'5')]"
     SEA = "//a[normalize-space()='Search']"
 
     def departcity(self):
